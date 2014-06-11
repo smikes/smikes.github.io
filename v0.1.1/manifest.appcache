@@ -1,0 +1,18 @@
+CACHE MANIFEST
+
+CACHE:
+assets/app.css
+./bg.png
+./images/next.gif
+./images/pot_of_stew.png
+./images/scene1.jpg
+./images/scene13.jpg
+./images/scene14.png
+./images/scene21.png
+./index.html
+./Makefile
+./manifest.appcache
+./manifest.header
+./movies/no_fish.mov
+./movies/no_fish.mp4
+./movies/no_fish.webm
